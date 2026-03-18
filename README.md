@@ -1,4 +1,4 @@
-📊 Loan Risk & Predictive Analytics in Lending
+📊 Loan Risk & Predictive Analytics
 
 🚀 Fintech-focused analytics project aimed at identifying hidden risk in loan approvals and improving decision-making using data-driven insights with Excel, Python, and Power BI.
 
