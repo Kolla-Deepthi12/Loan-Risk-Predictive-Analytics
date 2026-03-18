@@ -15,71 +15,71 @@ But:
 
 🎯 Objective
 
-Identify high-risk applicants early
+-> Identify high-risk applicants early
 
-Analyze financial behavior patterns
+-> Analyze financial behavior patterns
 
-Combine risk analysis with predictive insights
+-> Combine risk analysis with predictive insights
 
-Minimize expected financial loss
+-> Minimize expected financial loss
 
 🛠️ Tools & Technologies
 
-Excel → Data Cleaning
+-> Excel → Data Cleaning
 
-Python (Pandas, Matplotlib) → EDA & Feature Engineering
+-> Python (Pandas, Matplotlib) → EDA & Feature Engineering
 
-Power BI → Dashboard & Business Insights
+-> Power BI → Dashboard & Business Insights
 
 🔧 Data Preparation
 
-Handled missing values
+-> Handled missing values
 
-Cleaned and structured dataset
+-> Cleaned and structured dataset
 
-Prepared data for analysis
+-> Prepared data for analysis
 
 🔍 Exploratory Data Analysis & Feature Engineering (Python)
 
-Analyzed patterns in income, loan amount, and credit history
+-> Analyzed patterns in income, loan amount, and credit history
 
-Performed distribution analysis and handled outliers
+-> Performed distribution analysis and handled outliers
 
-Built financial and risk-based features
+-> Built financial and risk-based features
 
 📊 Engineered Features
 
-Total Income = Applicant + Co-applicant income
+- Total Income = Applicant + Co-applicant income
 
-Income-to-Loan Ratio → measures repayment capacity
+- Income-to-Loan Ratio → measures repayment capacity
 
-Risk Score → derived using financial indicators
+- Risk Score → derived using financial indicators
 
 ⚠️ Risk Segmentation
 
-Risk Category (High / Medium / Low)
+-> Risk Category (High / Medium / Low)
 
-Converts numerical scores into decision-friendly groups
+-> Converts numerical scores into decision-friendly groups
 
 💸 Financial Impact Metrics
 
-Expected Loss → potential loss from risky applicants
+- Expected Loss → potential loss from risky applicants
 
-Expected Profit → estimated return from approved loans
+- Expected Profit → estimated return from approved loans
 
-Expected Interest → projected earnings from lending
+- Expected Interest → projected earnings from lending
 
 👉 These features enabled:
 
-Better risk understanding
+-> Better risk understanding
 
-Improved decision-making insights
+-> Improved decision-making insights
 
 🤖 Predictive Analysis (Rule-Based Approach)
 
-Developed a rule-based prediction system using Risk Score and Risk Category
+-> Developed a rule-based prediction system using Risk Score and Risk Category
 
-Simulated loan approval decisions based on financial risk
+-> Simulated loan approval decisions based on financial risk
 
 🔹 Prediction Logic
 
@@ -126,41 +126,25 @@ Prediction vs Risk Category
 
 📈 Key Insights
 
-Risk is not evenly distributed — a small segment drives most expected loss
+-> Risk is not evenly distributed — a small segment drives most expected loss
 
-Credit history has a stronger influence than income
+-> Credit history has a stronger influence than income
 
-High income does not always indicate low risk
+-> High income does not always indicate low risk
 
-Low income + high loan → higher default probability
+-> Low income + high loan → higher default probability
 
-Prediction aligns with risk segmentation, validating decision logic
+-> Prediction aligns with risk segmentation, validating decision logic
 
 💡 Business Takeaways
 
-Approval rate alone is not a reliable success metric
+-> Approval rate alone is not a reliable success metric
 
-Risk segmentation improves decision quality
+-> Risk segmentation improves decision quality
 
-Credit behavior should be prioritized in lending decisions
+-> Credit behavior should be prioritized in lending decisions
 
-Monitoring high-risk segments can significantly reduce losses
-
-🧠 Skills Demonstrated
-
-Data Cleaning
-
-Exploratory Data Analysis
-
-Feature Engineering
-
-Rule-Based Predictive Analysis
-
-Data Visualization (Power BI)
-
-Financial Risk Analysis
-
-Business Problem Solving
+-> Monitoring high-risk segments can significantly reduce losses
 
 📌 Conclusion
 
